@@ -1,2 +1,7 @@
 # SQL-Fundamentals-Sparta-teachable-2024
-Learning SQL Fundamentals
+
+SQL(Structured Query Lanauage) 
+- Programming language used to communicate with databases.
+
+
+
