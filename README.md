@@ -47,3 +47,37 @@ Foreign Keys
 - Values do not have to be unique
 - The RDBMS will prevent any changes that violate the relationship constraints
 
+# Data Models
+
+Detail how information is organised
+Show relationships between tables
+Three levels
+- Conceptual
+- Logical
+- Physical
+
+Conceptual Data Model
+- Entity Names
+- Entity Relationships
+
+Logical Data Model
+- Entity Names
+- Entity Relationships
+- Attributes
+- Primary Keys
+- Foreign Keys
+
+Physical Data Model
+- Primary Keys
+- Foreign Keys
+- Tables Names
+- Column Names
+- Column Data Types
+
+# Entity Relationship Diagrams
+
+- Represents all entites in our data model
+- Each entity represented by a table in the database
+- Each entity has attributes
+- Relationships shown with lines
+- Can use Crow's Foot notation to describe relationships in more detail
